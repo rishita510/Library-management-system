@@ -1,0 +1,48 @@
+
+  {
+    "books":[
+        {
+    "id": 1,
+    "name": "The Great Gatsby",
+    "genre": "Classic Fiction",
+    "publisher": "Scribner",
+    "price": 12.99
+  },
+  {
+    "id": 2,
+    "name": "The Silent Patient",
+    "genre": "Psychological Thriller",
+    "publisher": "Celadon Books",
+    "price": 15.50
+  },
+  {
+    "id": 3,
+    "name": "Atomic Habits",
+    "genre": "Self-Help",
+    "publisher": "Avery",
+    "price": 18.00
+  },
+  {
+    "id": 4,
+    "name": "Project Hail Mary",
+    "genre": "Science Fiction",
+    "publisher": "Ballantine Books",
+    "price": 22.00
+  },
+  {
+    "id": 5,
+    "name": "The Midnight Library",
+    "genre": "Contemporary Fantasy",
+    "publisher": "Viking",
+    "price": 14.25
+  },
+  {
+    "id": 6,
+    "name": "Educated",
+    "genre": "Memoir",
+    "publisher": "Random House",
+    "price": 16.99
+  
+  }
+]
+}

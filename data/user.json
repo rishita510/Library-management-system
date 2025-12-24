@@ -1,0 +1,34 @@
+[
+  {
+    "id": 101,
+    "name": "Alice Johnson",
+    "email": "alice.j@example.com",
+    "role": "Premium Member",
+    "purchased_books": [1, 3],
+    "account_status": "Active"
+  },
+  {
+    "id": 102,
+    "name": "Marcus Chen",
+    "email": "m.chen@provider.net",
+    "role": "Standard User",
+    "purchased_books": [4],
+    "account_status": "Active"
+  },
+  {
+    "id": 103,
+    "name": "Sarah O'Connor",
+    "email": "sarah.oc@webmail.com",
+    "role": "Standard User",
+    "purchased_books": [2, 5, 6],
+    "account_status": "Inactive"
+  },
+  {
+    "id": 104,
+    "name": "David Smith",
+    "email": "dsmith88@example.com",
+    "role": "Premium Member",
+    "purchased_books": [],
+    "account_status": "Active"
+  }
+]
