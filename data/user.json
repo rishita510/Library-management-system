@@ -1,34 +1,45 @@
-[
-  {
-    "id": 1,
-    "name": "Alice Johnson",
-    "email": "alice.j@example.com",
-    "role": "Premium Member",
-    "purchased_books": [1, 3],
-    "account_status": "Active"
-  },
-  {
-    "id": 2,
-    "name": "Marcus Chen",
-    "email": "m.chen@provider.net",
-    "role": "Standard User",
-    "purchased_books": [4],
-    "account_status": "Active"
-  },
-  {
-    "id": 3,
-    "name": "Sarah O'Connor",
-    "email": "sarah.oc@webmail.com",
-    "role": "Standard User",
-    "purchased_books": [2, 5, 6],
-    "account_status": "Inactive"
-  },
-  {
-    "id": 4,
-    "name": "David Smith",
-    "email": "dsmith88@example.com",
-    "role": "Premium Member",
-    "purchased_books": [],
-    "account_status": "Active"
+{
+    "users": [
+      {
+        "id": "1",
+        "name": "John",
+        "surname": "Doe",
+        "email": "user@email.com",
+        "issuedBook": "1",
+        "issuedDate": "04/01/2022",
+        "returnDate": "05/01/2022",
+        "subscriptionType": "Premium",
+        "subscriptionDate": "04/01/2022"
+      },
+      {
+        "id": "2",
+        "name": "Jane",
+        "surname": "Doe",
+        "email": "user@email.com",
+        "issuedBook": "2",
+        "issuedDate": "01/07/2021",
+        "returnDate": "01/10/2021",
+        "subscriptionType": "Basic",
+        "subscriptionDate": "03/01/2022"
+      },
+      {
+        "id": "3",
+        "name": "Jane",
+        "surname": "Doe",
+        "email": "user@email.com",
+        "issuedBook": "3",
+        "issuedDate": "01/07/2021",
+        "returnDate": "01/10/2021",
+        "subscriptionType": "Basic",
+        "subscriptionDate": "01/01/2022"
+      },
+      {
+        "id": "4",
+        "name": "Jane",
+        "surname": "Doe",
+        "email": "user@email.com",
+        "subscriptionType": "Premium",
+        "subscriptionDate": "01/01/2022"
+      }
+    ]
   }
-]
